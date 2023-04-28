@@ -1,5 +1,5 @@
 # hello-world
-my reository 
+my repository 
 
 Hi i am ajay.
 I am working.
